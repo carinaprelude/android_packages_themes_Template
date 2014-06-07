@@ -27,7 +27,7 @@
     <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="Theme Template">
     </application>
 
-    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Theme Template"/>
-    <meta-data android:name="org.cyanogenmod.theme.author" android:value="CyanogenMod" />
+    <meta-data android:name="org.cyanogenmod.theme.name" android:value="Pony"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="Carina" />
 
 </manifest>
